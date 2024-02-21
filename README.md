@@ -4,17 +4,11 @@ Welcome to the Salary Calculator! This web application helps you calculate your 
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About the Project
 Salary Calculator is a handy tool for individuals and businesses to estimate salaries across various timeframes. Whether you want to calculate your hourly wage, monthly salary, or yearly income, this application has you covered.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SalaryCalculator.git
 
 ## Usage
 1. Open index.html in your web browser.
