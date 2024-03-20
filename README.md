@@ -2,6 +2,10 @@
 
 Welcome to the Salary Calculator! This web application helps you calculate your salary based on different parameters such as hourly rate, daily hours, weekly hours, and more.
 
+## Live Demo
+
+You can check out the live version of this website [here](https://calculate-your-salary.netlify.app/).
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Usage](#usage)
